@@ -13,3 +13,7 @@ run in terminal gcc filename -o output
 - how to take Input from user.
 - Arithmetic Operators.
 - Comparision Operators.
+- If Else Statement
+- Switch
+- Loops
+- Functions
