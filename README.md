@@ -17,3 +17,4 @@ run in terminal gcc filename -o output
 - Switch
 - Loops
 - Functions
+- Practice
