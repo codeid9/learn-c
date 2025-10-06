@@ -1,11 +1,5 @@
 # Learn C from scratch
 
-## how to use
-
-clone the repo using git clone.
-run in terminal gcc filename -o output
-./output
-
 ## Directory Basic
 
 - How to Print Hello World.
@@ -18,3 +12,12 @@ run in terminal gcc filename -o output
 - Loops
 - Functions
 - Practice
+
+## How to use
+
+```terminal
+git clone https://github.com/codeid9/learn-c.git
+cd <dir_name>
+gcc filename -o output
+./output.exe
+```
